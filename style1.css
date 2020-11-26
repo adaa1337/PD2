@@ -1,0 +1,31 @@
+
+img{
+  max-width: 100%
+  height: auto;
+
+}
+a{
+  color: $b4ad9e;
+
+}
+a;hover{
+  color #898377
+}
+
+header .navbar-light{
+	background-color: red
+}
+
+header .navbar-brand{
+	font-family:'Inconsolata'monospace;
+	font-size:30px;
+	color:#737171;
+}
+   
+body {   
+   	background-image: url(images/vp.png);      
+  	background-position: center center;      
+	background-repeat: no-repeat;      
+	background-attachment: fixed;      
+	background-size: cover;   
+
